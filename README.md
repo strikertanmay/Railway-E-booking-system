@@ -1,6 +1,6 @@
-##Railway E-Booking System
+# Railway E-Booking System
 
-##The system comprises interfaces for  “Railway Authorities” and “Passengers”. This system have these listed features.
+## The system comprises interfaces for  “Railway Authorities” and “Passengers”. This system have these listed features.
 
 (1). Show train schedule.
 (2). Add a train
@@ -9,11 +9,11 @@
 (5). Get PNR Status 
 (6). Register a Complaint 
 
-##Tech Stack use
+## Tech Stack use
 (1). PHP
 (2). MySQL
  
-##Functional components of the project
+## Functional components of the project
 
 Functional requirements for Railway Authorities
     Login 
@@ -33,7 +33,7 @@ Functional Requirements for Passengers
     Check PNR Status
     Raise a complaint 
 
-##To Run the Project
+## To Run the Project
 ```
 (1). Clone the project in your local system.
 (2). Make MySQL DB collection.
@@ -41,6 +41,6 @@ Functional Requirements for Passengers
 (4). Put dbname, dbuser, dbpass in dbconnect.php.
 (5). Run the server.
 ```
-##For admin login:
+## For admin login:
     username : admin
     password: admin123
