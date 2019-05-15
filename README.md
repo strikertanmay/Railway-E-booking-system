@@ -1,6 +1,6 @@
 # Railway E-Booking System
 
-## The system comprises interfaces for  “Railway Authorities” and “Passengers”. This system have these listed features.
+### The system comprises interfaces for  “Railway Authorities” and “Passengers”. This system have these listed features.
 
 * Show train schedule.
 * Add a train
@@ -16,22 +16,22 @@
 ## Functional components of the project
 
 * Functional requirements for Railway Authorities
-    Login 
-    Change Password
-    Update Train Schedule
-    See the booking
-    Add a new train
-    Cancel a Scheduled train
-    View complaints
+    * Login 
+    * Change Password
+    * Update Train Schedule
+    * See the booking
+    * Add a new train
+    * Cancel a Scheduled train
+    * View complaints
 
 * Functional Requirements for Passengers
-    Login
-    Change Password
-    View the available trains between stations
-    Book a train
-    Cancel a ticket
-    Check PNR Status
-    Raise a complaint 
+    * Login
+    * Change Password
+    * View the available trains between stations
+    * Book a train
+    * Cancel a ticket
+    * Check PNR Status
+    * Raise a complaint 
 
 ## To Run the Project
 ```
