@@ -2,20 +2,20 @@
 
 ## The system comprises interfaces for  “Railway Authorities” and “Passengers”. This system have these listed features.
 
-(1). Show train schedule.
-(2). Add a train
-(3). Book a ticket. 
-(4). Cancel a ticket
-(5). Get PNR Status 
-(6). Register a Complaint 
+* Show train schedule.
+* Add a train
+* Book a ticket. 
+* Cancel a ticket
+* Get PNR Status 
+* Register a Complaint 
 
 ## Tech Stack use
-(1). PHP
-(2). MySQL
+* PHP
+* MySQL
  
 ## Functional components of the project
 
-Functional requirements for Railway Authorities
+* Functional requirements for Railway Authorities
     Login 
     Change Password
     Update Train Schedule
@@ -24,7 +24,7 @@ Functional requirements for Railway Authorities
     Cancel a Scheduled train
     View complaints
 
-Functional Requirements for Passengers
+* Functional Requirements for Passengers
     Login
     Change Password
     View the available trains between stations
